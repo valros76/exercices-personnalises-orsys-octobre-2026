@@ -1,3 +1,11 @@
+Pour une version plus claire, accède directement à : https://exercice-personnalise.vercel.app/ !
+
+
+
+
+
+
+
 🤖 Exercice JavaScript — Gestion d'une liste de tâches avec une IA comme pair de programmation
 
 Profil : Thomas — Débutant JavaScript
